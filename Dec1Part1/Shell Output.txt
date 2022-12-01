@@ -1,0 +1,3 @@
+>>> %Run main.py
+Elf number  184  is holding:  67450
+>>> 
