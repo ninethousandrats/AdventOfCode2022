@@ -1,0 +1,6 @@
+>>> %Run main.py
+Elf number  184  is holding:  67450
+Elf number  150  is holding:  66474
+Elf number  222  is holding:  65433
+In total, the top 3 elves are holding:  199357  calories
+>>> 
